@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>비디오 대여 프로그램</title>
 <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
